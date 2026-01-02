@@ -73,79 +73,75 @@ Developed for the 3D printing community and **Hellbot Magna 2** users.
 
 -------------------------------------------------------------------------------------
 
-Magna MKS Thumbnail Generator
+# Magna MKS Thumbnail Generator
 
-Generador automático de miniaturas compatibles con pantallas MKS TFT 3.5” para Orca Slicer, optimizado para Hellbot Magna 2 con placa MKS Robin Nano.
+Generador automático de miniaturas **compatibles con pantallas MKS TFT 3.5”** para **Orca Slicer**, optimizado para **Hellbot Magna 2** con placa **MKS Robin Nano**.
 
-El ejecutable se utiliza como post-processing script y se encarga de insertar miniaturas directamente dentro del archivo G-code, permitiendo que la pantalla de la impresora muestre una vista previa correcta del modelo.
+El ejecutable se utiliza como **post-processing script** y se encarga de insertar miniaturas directamente dentro del archivo G-code, permitiendo que la pantalla de la impresora muestre una vista previa correcta del modelo.
 
-✨ Características
+---
 
-Genera miniaturas 100×100 y 200×200
+## ✨ Características
 
-Formato 100% compatible con MKS TFT 35
+- Genera miniaturas **100×100** y **200×200**
+- Formato **100% compatible con MKS TFT 35**
+- Render directo en resolución final (sin escalado ni pixelado)
+- Fondo negro, como los G-code originales de fábrica
+- Soporte para **impresiones multicolor**
+- Uso completo de la paleta de colores de la pantalla
+- Totalmente automático
+- **No requiere Python ni dependencias externas**
 
-Render directo en resolución final (sin escalado ni pixelado)
+---
 
-Fondo negro, como los G-code originales de fábrica
+## 🖥️ Compatibilidad
 
-Soporte para impresiones multicolor
-
-Uso completo de la paleta de colores de la pantalla
-
-Totalmente automático
-
-No requiere Python ni dependencias externas
-
-🖥️ Compatibilidad
-
-Orca Slicer
-
-Pantalla táctil MKS TFT 35 (3.5")
-
-Hellbot Magna 2
-
-Placas MKS Robin Nano
+- Orca Slicer
+- Pantalla táctil **MKS TFT 35 (3.5")**
+- Hellbot Magna 2
+- Placas MKS Robin Nano
 
 Puede funcionar en otros equipos MKS compatibles con el mismo formato de miniaturas.
 
-🚀 Instalación y uso
+---
 
-Descargar el archivo magna_mks.exe
+## 🚀 Instalación y uso
 
-Abrir Orca Slicer
-
-Ir a Preferences → Post-processing Scripts
-
-Agregar el ejecutable magna_mks.exe
-
-Laminar el modelo y guardar el G-code
+1. Descargar el archivo `magna_mks.exe`
+2. Abrir **Orca Slicer**
+3. Ir a **Preferences → Post-processing Scripts**
+4. Agregar el ejecutable `magna_mks.exe`
+5. Laminar el modelo y guardar el G-code
 
 El G-code generado ya incluirá las miniaturas compatibles con la pantalla MKS.
 
-📦 Distribución
+---
 
-El ejecutable es standalone:
+## 📦 Distribución
 
-No necesita Python
+El ejecutable es **standalone**:
+- No necesita Python
+- No necesita instalar librerías
+- Puede compartirse libremente
 
-No necesita instalar librerías
+Solo es necesario copiar el `.exe`.
 
-Puede compartirse libremente
+---
 
-Solo es necesario copiar el .exe.
+## ⚠️ Notas
 
-⚠️ Notas
+- Windows puede mostrar una advertencia de seguridad al ejecutar el archivo por primera vez (comportamiento normal en ejecutables sin firma digital).
+- Orca Slicer no muestra el ícono del ejecutable, pero Windows sí.
 
-Windows puede mostrar una advertencia de seguridad al ejecutar el archivo por primera vez (comportamiento normal en ejecutables sin firma digital).
+---
 
-Orca Slicer no muestra el ícono del ejecutable, pero Windows sí.
-
-📜 Licencia
+## 📜 Licencia
 
 Este proyecto se distribuye sin garantía. Uso bajo responsabilidad del usuario.
 
-🙌 Créditos
+---
 
-Desarrollado para la comunidad de impresión 3D y usuarios de Hellbot Magna 2.
+## 🙌 Créditos
+
+Desarrollado para la comunidad de impresión 3D y usuarios de **Hellbot Magna 2**.de Hellbot Magna 2.
 ESPAÑOl

@@ -1,4 +1,7 @@
 # Magna MKS Thumbnail Generator
+![WhatsApp Image 2026-01-02 at 16 07 11](https://github.com/user-attachments/assets/d0c80f5c-fd62-40ba-b32a-bf7374a9ec3f)
+![WhatsApp Image 2026-01-02 at 16 07 12](https://github.com/user-attachments/assets/937edd08-21f8-445a-a6ff-5637e484f2ea)
+![WhatsApp Image 2026-01-02 at 16 07 12 (1)](https://github.com/user-attachments/assets/e0219c24-3b67-4974-82be-8cc1b6b2f268)
 
 Automatic thumbnail generator **compatible with MKS TFT 3.5” screens** for **Orca Slicer**, optimized for **Hellbot Magna 2** using **MKS Robin Nano** mainboards.
 
@@ -74,6 +77,9 @@ Developed for the 3D printing community and **Hellbot Magna 2** users.
 -------------------------------------------------------------------------------------
 
 # Magna MKS Thumbnail Generator
+![WhatsApp Image 2026-01-02 at 16 07 11](https://github.com/user-attachments/assets/d0c80f5c-fd62-40ba-b32a-bf7374a9ec3f)
+![WhatsApp Image 2026-01-02 at 16 07 12](https://github.com/user-attachments/assets/937edd08-21f8-445a-a6ff-5637e484f2ea)
+![WhatsApp Image 2026-01-02 at 16 07 12 (1)](https://github.com/user-attachments/assets/e0219c24-3b67-4974-82be-8cc1b6b2f268)
 
 Generador automático de miniaturas **compatibles con pantallas MKS TFT 3.5”** para **Orca Slicer**, optimizado para **Hellbot Magna 2** con placa **MKS Robin Nano**.
 
